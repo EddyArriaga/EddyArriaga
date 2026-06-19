@@ -7,10 +7,11 @@ proyectos y mis intereses.
 * [Intereses](#intereses)
 ## Información personal
 * Nombre: Eddy Arriaga
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Ocupación: Estudiante de Computación en Espol
+* Lugar de residencia: Guayas - Guayaquil
 ## Proyectos
-* [Lista de tus proyectos]
+* Proyecto 1
 ## Intereses
-* [Lista de tus intereses]
+* Desarrollo de software
+* Desarrollo web
+* Desarrollo de videojuegos
